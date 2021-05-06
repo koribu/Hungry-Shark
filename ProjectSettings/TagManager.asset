@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Shark
+  - fish
+  - jelly
+  - yellowfish
+  - redfish
+  - greenfish
   layers:
   - Default
   - TransparentFX
